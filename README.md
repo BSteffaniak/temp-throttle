@@ -15,7 +15,8 @@ For more instructions, see here:
 http://seperohacker.blogspot.com/2012/10/linux-keep-your-cpu-cool-with-frequency.html
 
 
-Author: Sepero (sepero 111 @ gmx . com)
+Author: Braden Steffaniak
+Original Author: Sepero (sepero 111 @ gmx . com)
 
 Links: http://github.com/Sepero/temp-throttle/  
 Links: http://seperohacker.blogspot.com/2012/10/linux-keep-your-cpu-cool-with-frequency.html  
